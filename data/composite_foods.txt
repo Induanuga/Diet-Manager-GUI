@@ -1,0 +1,16 @@
+Cheese Sandwich;bread,cheese,lunch;190.0;Bread:1.0,Cheese:1.0
+Scrambled Eggs Cheese;eggs,cheese,breakfast;180.0;Egg:1.0,Cheese:1.0
+Banana Smoothie;banana,milk,beverage;205.0;Banana:1.0,Milk:1.0
+Chicken Rice Bowl;chicken,rice,meal;295.0;Chicken Breast:1.0,Rice:1.0
+Apple Peanut Butter;apple,peanut butter,snack;190.0;Apple:1.0,Peanut Butter:1.0
+Milk Cereal;milk,cereal,breakfast;100.0;Milk:1.0
+Egg Bread Breakfast;egg,bread,meal;150.0;Egg:1.0,Bread:1.0
+Fruit Yogurt Parfait;yogurt,banana,apple,snack;350.0;Yogurt:1.0,Banana:1.0,Apple:1.0
+Peanut Butter Sandwich;sandwich,lunch,protein;175.0;Bread:1.0,Peanut Butter:1.0
+Oatmeal Banana;oatmeal,banana,breakfast;255.0;Oatmeal:1.0,Banana:1.0
+Grilled Chicken Salad;chicken,spinach,tomato,meal;194.0;Chicken Breast:1.0,Spinach:1.0,Tomato:1.0
+Salmon Rice;salmon,rice,dinner;338.0;Salmon:1.0,Rice:1.0
+Tomato Cheese Salad;tomato,cheese,side;132.0;Tomato:1.0,Cheese:1.0
+Potato Cheese;potato,cheese,snack;270.0;Potato:1.0,Cheese:1.0
+Almond Yogurt Mix;yogurt,almonds,snack;310.0;Yogurt:1.0,Almonds:1.0
+Spinach Egg Scramble;spinach,egg,breakfast;77.0;Spinach:1.0,Egg:1.0

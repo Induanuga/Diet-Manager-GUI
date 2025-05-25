@@ -1,0 +1,16 @@
+Milk;dairy,beverage,calcium,protein;100.0
+Egg;protein,breakfast,cholesterol;70.0
+Banana;fruit,potassium,fiber;105.0
+Bread;grain,carbs,fiber;80.0
+Chicken Breast;protein,meat,lean;165.0
+Rice;grain,carbs,glutenfree;130.0
+Apple;fruit,fiber,vitaminC;95.0
+Cheese;dairy,calcium,fat;110.0
+Peanut Butter;nuts,protein,fat;95.0
+Yogurt;dairy,probiotic,calcium;150.0
+Oatmeal;grain,fiber,breakfast;150.0
+Tomato;vegetable,vitaminC,lowcalorie;22.0
+Spinach;leafy green,iron,fiber;7.0
+Salmon;fish,omega3,protein;208.0
+Almonds;nuts,healthy fat,snack;160.0
+Potato;vegetable,carbs,potassium;160.0
